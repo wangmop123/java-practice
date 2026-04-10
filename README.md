@@ -1,2 +1,3 @@
 # java-practice
-java practice programs
+
+Java practice programs for learning Git and Java.
